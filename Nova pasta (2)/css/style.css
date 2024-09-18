@@ -1,0 +1,30 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+   margin: 0;
+   padding: 15px;
+   background-color: rgb(65, 141, 177)    
+   }
+   
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 20px;
+
+}
+.profissões{
+   margin: 10px;
+   padding: 5px;
+   background-color: rgb(255, 255, 255);
+   border: 2.5px solid black;
+   text-align: center ;
+   border-radius: 80px;
+   box-shadow: 2.5px 2.5px 2.5px 2.5px rgb(0, 0, 0);
+   
+   }
+
+h1{
+    font-family: 'Bold 700', Courier, monospace;
+    text-align: center ;
+   
+   }
